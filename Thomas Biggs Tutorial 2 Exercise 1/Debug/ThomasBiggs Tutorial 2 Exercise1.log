@@ -1,0 +1,27 @@
+﻿Build started 05/10/2016 13:51:40.
+     1>Project "C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\ThomasBiggs Tutorial 2 Exercise1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>E:\year 3\AGP\DirectX\Include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+     1>E:\year 3\AGP\DirectX\Include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+     1>E:\year 3\AGP\DirectX\Include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+     1>E:\year 3\AGP\DirectX\Include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+     1>e:\year 3\agp\directx\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50445): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+     1>e:\year 3\agp\directx\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50454): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+     1>test.cpp(213): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+     1>test.cpp(214): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\Debug\ThomasBiggs Tutorial 2 Exercise1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\Debug\ThomasBiggs Tutorial 2 Exercise1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\Debug\ThomasBiggs Tutorial 2 Exercise1.lib" /MACHINE:X86 Debug\test.obj
+         ThomasBiggs Tutorial 2 Exercise1.vcxproj -> C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\Debug\ThomasBiggs Tutorial 2 Exercise1.exe
+     1>Done Building Project "C:\Users\0biggt83\Desktop\AGP\Thomas Biggs Tutorial 2 Exercise 1\ThomasBiggs Tutorial 2 Exercise1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03
